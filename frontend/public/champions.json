@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "snapshot": "sample",
+    "updated": "2025-10-27"
+  },
+  "champions": [
+    {
+      "id": "arbiter",
+      "name": "Arbiter",
+      "faction": "High Elves",
+      "rarity": "Legendary",
+      "base_spd": 110,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 30
+    },
+    {
+      "id": "leonardo",
+      "name": "Leonardo",
+      "faction": "Shadowkin",
+      "rarity": "Legendary",
+      "base_spd": 105,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 0
+    },
+    {
+      "id": "michelangelo",
+      "name": "Michelangelo",
+      "faction": "Shadowkin",
+      "rarity": "Legendary",
+      "base_spd": 100,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 0
+    },
+    {
+      "id": "donatello",
+      "name": "Donatello",
+      "faction": "Shadowkin",
+      "rarity": "Legendary",
+      "base_spd": 98,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 0
+    },
+    {
+      "id": "raphael",
+      "name": "Raphael",
+      "faction": "Shadowkin",
+      "rarity": "Legendary",
+      "base_spd": 102,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 0
+    },
+    {
+      "id": "april_oneil",
+      "name": "April O'Neil",
+      "faction": "Shadowkin",
+      "rarity": "Legendary",
+      "base_spd": 96,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 0
+    },
+    {
+      "id": "shredder",
+      "name": "Shredder",
+      "faction": "Shadowkin",
+      "rarity": "Legendary",
+      "base_spd": 110,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 0
+    },
+    {
+      "id": "siphi_the_lost_bride",
+      "name": "Siphi the Lost Bride",
+      "faction": "Sylvan Watchers",
+      "rarity": "Legendary",
+      "base_spd": 114,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 0
+    },
+    {
+      "id": "eostrid",
+      "name": "Eostrid",
+      "faction": "Dwarves",
+      "rarity": "Legendary",
+      "base_spd": 113,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 0
+    },
+    {
+      "id": "mountain_king",
+      "name": "Mountain King",
+      "faction": "Dwarves",
+      "rarity": "Legendary",
+      "base_spd": 112,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 0
+    },
+    {
+      "id": "venus",
+      "name": "Venus",
+      "faction": "High Elves",
+      "rarity": "Legendary",
+      "base_spd": 112,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 0
+    },
+    {
+      "id": "ariel",
+      "name": "Ariel",
+      "faction": "High Elves",
+      "rarity": "Legendary",
+      "base_spd": 108,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 30
+    },
+    {
+      "id": "kael",
+      "name": "Kael",
+      "faction": "Dark Elves",
+      "rarity": "Epic",
+      "base_spd": 99,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 0
+    },
+    {
+      "id": "bonesaw",
+      "name": "Bonesaw",
+      "faction": "Barbarians",
+      "rarity": "Legendary",
+      "base_spd": 107,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 0
+    },
+    {
+      "id": "speedy",
+      "name": "Speedy",
+      "faction": "High Elves",
+      "rarity": "Epic",
+      "base_spd": 115,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 0
+    },
+    {
+      "id": "sepulcher_sentinel",
+      "name": "Sepulcher Sentinel",
+      "faction": "Knight Revenant",
+      "rarity": "Epic",
+      "base_spd": 98,
+      "a1_cd": 0,
+      "a2_cd": 3,
+      "a3_cd": 4,
+      "passive_cd": null,
+      "aura_spd": 0
+    }
+  ]
+}
